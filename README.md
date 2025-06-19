@@ -1,6 +1,5 @@
 # 👋 Hi there, I’m Lawrence!
 
-![Manchester United](https://img.shields.io/badge/Manchester%20United-FC-red?style=flat-square&logo=manchester-united&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-Developer-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learner-3178c6?logo=typescript&logoColor=white)
